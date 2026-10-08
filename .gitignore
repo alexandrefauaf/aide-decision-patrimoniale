@@ -13,3 +13,6 @@ data/*.csv
 # Pas de modèles sérialisés dans le dépôt
 *.pkl
 *.joblib
+
+.claude/
+.agents/
